@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AnimationExEx</string>
+    <string name="transition_photo">transition photo</string>
+    <string name="transition_title">transition title</string>
 </resources>
